@@ -1,0 +1,40 @@
+body {
+  background-color: #1a1a1a;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+input[type=text] {
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid #00bfff;
+  font-size: 16px;
+  color: #fff;
+  background-color: #1a1a1a;
+  }
+  
+  button {
+  background-color: #00bfff;
+  color: #fff;
+  padding: 12px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+  }
+  
+  #costo{
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  }
+  
+  
